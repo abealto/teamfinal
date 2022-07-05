@@ -1,0 +1,25 @@
+{
+    "Reviews":[
+        {
+            "title":"Call Of Duty",
+            "body":"This is a shooting game",
+            "id":1,
+            "userId":1
+
+        },
+        {
+            "title":"Need For Speed",
+            "body":"This is a racing game",
+            "id":2,
+            "userId":1
+
+        },
+        {
+            "title":"Mario Cart",
+            "body":"This is a racing game",
+            "id":3,
+            "userId":1
+
+        }
+    ]
+}

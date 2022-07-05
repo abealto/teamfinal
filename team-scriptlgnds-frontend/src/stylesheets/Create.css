@@ -1,0 +1,36 @@
+.Create{
+    text-align: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.form input{
+    width: 300px;
+    height: 60px;
+    margin: 10px;
+    font-size: 25px;
+}
+
+.resultcard {
+    width: 500px;
+    height: 190px;
+    border: 2px solid;
+    border-radius: 15px;
+    margin: 10px;
+    
+}
+
+#updateInput{
+    width: 200px;
+    height: 20px;
+    margin-bottom: px;
+}
+
+p{ 
+    text-align: center;
+}
+

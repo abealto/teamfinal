@@ -1,0 +1,50 @@
+#logo{
+    max-width: 400px;
+    margin-bottom: 4em;
+    /* margin-right: 4em; */
+    border-radius: 33.5em;
+    box-shadow:
+        0 0 6px 3px rgb(0, 247, 255),
+        0 0 9px 6px #8c00ff,
+        0 0 12px 9px rgb(225, 0, 255);
+}
+.logostyle h2{
+    text-align: center;
+}
+.logostyle{
+    text-align: center;
+    justify-content: center;
+    /* margin: 2em 10em 8.7em 10em; */
+    margin: auto;
+    
+    
+}
+.logostyle img{
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+@media (max-width: 500px ) {
+    .logostyle  {
+         margin:auto;
+         width: 100%;
+         text-align: center;
+         justify-content: center;
+         
+        
+ 
+     }
+     
+ }
+ @media (max-width: 900px ) {
+     .logostyle {
+         width: 100%;
+         text-align: center;
+         justify-content: center;
+         
+     }
+     
+ }
+
+
+ 

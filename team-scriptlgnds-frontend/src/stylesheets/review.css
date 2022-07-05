@@ -1,0 +1,61 @@
+img {
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.postList {
+    text-align: center;
+    margin: 5em;
+}
+
+form {
+    text-align: center;
+}
+
+
+.gamelogo img {
+
+
+    max-width: 55%;
+    max-height: 50%;
+}
+
+.gamelogo {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    width: 100%;
+    text-align: center;
+
+}
+
+form {
+    padding-bottom: 10%;
+}
+
+@media (max-width: 500px) {
+    .gamelogo {
+        margin: auto;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+
+
+
+    }
+
+}
+
+@media (max-width: 900px) {
+    .gamelogo {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+
+    }
+
+
+}

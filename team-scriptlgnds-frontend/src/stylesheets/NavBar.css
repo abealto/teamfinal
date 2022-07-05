@@ -1,0 +1,14 @@
+.logo{
+    margin: 0px;
+    border-radius: 33.5em;
+    box-shadow:
+        0 0 2px 1px rgb(0, 247, 255),
+        0 0 3px 2px #8c00ff,
+        0 0 4px 3px rgb(18, 109, 212);
+    max-width: 5em;
+}
+
+.btn {
+    margin-left: 5px;
+    margin-right: 5px;
+}

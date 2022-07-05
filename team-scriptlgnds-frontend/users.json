@@ -1,0 +1,77 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "email": "ivan@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 2,
+      "email": "daniel@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "hello@gmail.com",
+      "password": "2222",
+      "id": 3
+    },
+    {
+      "username": "",
+      "password": "1234",
+      "email": "dnybur@gmail.com",
+      "id": 4
+    },
+    {
+      "username": "",
+      "password": "1234",
+      "email": "dnybur@gmail.com",
+      "id": 5
+    },
+    {
+      "username": "",
+      "password": "1234",
+      "email": "dnybur",
+      "id": 6
+    },
+    {
+      "username": "Admin",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "username": "Admin",
+      "email": "admin@admin.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 8
+    },
+    {
+      "username": "desbur",
+      "email": "bzbe@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 9
+    },
+    {
+      "username": "desbur",
+      "email": "bzbe@gmail.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 10
+    },
+    {
+      "username": "danny12",
+      "email": "danny1222@yahoo.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 11
+    },
+    {
+      "username": "dev",
+      "email": "dev@yahoo.com",
+      "password": "1234",
+      "confirmPassword": "1234",
+      "id": 12
+    }
+  ]
+}

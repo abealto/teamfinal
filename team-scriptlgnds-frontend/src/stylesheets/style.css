@@ -1,0 +1,9 @@
+img {
+    border-radius: 33.5em;
+    box-shadow:
+        0 0 6px 3px rgb(0, 247, 255),
+        0 0 9px 6px #8c00ff,
+        0 0 12px 9px rgb(225, 0, 255);
+    max-width: 5em;
+    margin: 4em;
+}
